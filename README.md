@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Buğra, professional Python & ML/AI Developer, DAta Analyst and Backend Engineer 👨‍💻</div>  
+### <div align="center">I'm Buğra, a professional Python & ML/AI Developer, Data Analyst and Backend Engineer 👨‍💻</div>  
   
 
 <br/>  
